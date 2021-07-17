@@ -45,6 +45,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ```
 
 ## Snapshot
+Click [here](https://drive.google.com/file/d/1o-o4yJ80kb97yNAaC3GvTt0pQICe1tP7/view) for a full video demonstration.
 
 ![snapshot](./snapshot.png)
 
