@@ -44,29 +44,10 @@ WHEN I test API POST and DELETE routes in Insomnia Core
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 ```
 
-## Demo Videos
+## Snapshot
 
-![demoVideo](./images/demo.gif)
+![snapshot](./images/snapshot.gif)
 
-Seeding and starting of the DB and server.
-
----
-
-![demoVideo2](./images/GETall.gif)
-
-`GET` routes returning all Categories, all Products, and all Tags being tested in Insomnia Core.
-
----
-
-![demoVideo3](./images/GETbyID.gif)
-
-`GET` routes to return a single Category, a single Product, and a single Tag being tested in Insomnia Core
-
----
-
-Click this [link](https://drive.google.com/file/d/1NmMGa0ilBML55Q9gwJL5TepVixNS6f-Y/view) to see the full demo on `POST`, `PUT`, and `DELETE` routes for Categories, Products, and Tags being tested in Insomnia Core.
-
----
 
 ## Installing Dependencies
 
@@ -76,19 +57,7 @@ Enter the following command to install the required Node Package Modules:
 
 ## Running the Application
 
-Enter the following command in your CLI at the root of the application
-
-`mysql -u root -p`
-
-Enter PW when promted
-
-`source db/schema.sql`
-
-`quit`
-
-`npm run seed`
-
-`npm start`
+Enter `npm start` into the CLI in the root directory. Then open up insomnia c
 
 ## Contibutions
 
