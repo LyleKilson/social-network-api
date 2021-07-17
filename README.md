@@ -57,7 +57,7 @@ Enter the following command to install the required Node Package Modules:
 
 ## Running the Application
 
-Enter `npm start` into the CLI in the root directory. Then open up insomnia c
+Enter `npm start` into the CLI in the root directory. Next, open Isomnia and test the API endpoints on local port 3001.
 
 ## Contibutions
 
