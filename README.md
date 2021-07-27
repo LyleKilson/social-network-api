@@ -9,9 +9,10 @@
 </p>
   
 <p align="center">
-    <img src="https://img.shields.io/badge/Javascript-yellow" />
+    <img src="https://img.shields.io/badge/javascript-yellow" />
     <img src="https://img.shields.io/badge/express-orange" />
     <img src="https://img.shields.io/badge/mongoose-red"  />
+    <img src="https://img.shields.io/badge/moment-purple" />
 </p>
 
 ## Discrption
@@ -54,7 +55,7 @@ Click [here](https://drive.google.com/file/d/1o-o4yJ80kb97yNAaC3GvTt0pQICe1tP7/v
 
 Enter the following command to install the required Node Package Modules:
 
-`npm install mongoose express`
+`npm install mongoose moment express`
 
 ## Running the Application
 
