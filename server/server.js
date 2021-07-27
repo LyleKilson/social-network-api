@@ -14,7 +14,7 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/solid-spork", {
   useUnifiedTopology: true,
 });
 
-// Use this to log mongo queries
+// log queries
 mongoose.set("debug", true);
 
 app.listen(PORT, () => console.log(`Connected on localhost:${PORT}`));
